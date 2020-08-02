@@ -7,7 +7,7 @@ POST http://localhost:3000/transactions
 content-type: application/json
 
 {
-  "title": "Salario",
-  "value" : 700,
-  "type" : "income"
+  "title": "Comida",
+  "value" : 600,
+  "type" : "outcome"
 }

@@ -1,0 +1,7 @@
+###Get all.
+GET http://localhost:3000/transactions
+
+
+###Post transaction.
+POST http://localhost:3000/transactions
+
